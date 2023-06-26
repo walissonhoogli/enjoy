@@ -36,7 +36,7 @@ Segue a lista de Alterações:
     "order_id" => numero do pedido 
     
     "data" => quando foi gerado a etiqueta
-    </br>
+    
 3- Na tabela users foi adicionado um campo ['cpf']
 
     O campo "cpf" => grava o cpf do usuário. 
