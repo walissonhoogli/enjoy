@@ -37,6 +37,6 @@ Segue a lista de Alterações:
     
     "data" => quando foi gerado a etiqueta
     </br>
-3- Na tabela users foi adicionado um campo ['cpf'].
-    </br>
+3- Na tabela users foi adicionado um campo ['cpf']
+
     O campo "cpf" => grava o cpf do usuário. 
