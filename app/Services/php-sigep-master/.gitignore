@@ -1,0 +1,11 @@
+tmp/
+vendor/
+/.idea
+/nbproject/private/
+nbproject/
+composer.phar
+.buildpath
+.project
+.settings/
+.phpunit.result.cache
+.DS_Store
